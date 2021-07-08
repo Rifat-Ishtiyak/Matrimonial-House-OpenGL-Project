@@ -1,4 +1,4 @@
-# Matrimonial-House-OpenGL-Project  :relaxed:
+# Matrimonial-House-OpenGL-Project :circus_tent:
 
 The problem was to design a matrimonial house and its surrounding objects. In real life, the main attraction point is the decorations and lighting of the house. We tried to bring this view into our project as much as we could do. The objects we drawn in this project
 those are listed below:
@@ -24,15 +24,15 @@ those are listed below:
 ![1](https://user-images.githubusercontent.com/56845656/107859902-c4a80f80-6e66-11eb-944a-8ea28b764def.JPG)
 
 There were also some interactions to enhance the beauty of the scenery. Those are :
-1. Day Mode.
-2. Night Mode.
-3. Lighting Effect.
-4. Moving Train. 
-5. Moving Vehicles.
-6. Birds Flying.
-7. Floating Clouds.
-8. Rainy Effect.
-9. Sound Effects.
+1. Day Mode. :sunny:
+2. Night Mode. :crescent_moon:
+3. Lighting Effect. :milky_way:	
+4. Moving Train. :railway_car:
+5. Moving Vehicles. :taxi:
+6. Birds Flying. :bird:	
+7. Floating Clouds. :cloud:
+8. Rainy Effect. :umbrella:	
+9. Sound Effects. :loudspeaker:
 
 ![2](https://user-images.githubusercontent.com/56845656/107859912-cd98e100-6e66-11eb-85e0-36a3c0987624.JPG)
 
